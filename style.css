@@ -122,3 +122,7 @@ p {
     margin: 0 20px;
   }
 }
+
+.primary-link {
+  text-align: center;
+}
